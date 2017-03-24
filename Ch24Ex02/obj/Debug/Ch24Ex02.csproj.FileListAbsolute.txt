@@ -1,0 +1,5 @@
+F:\CSharp\CSharp4\Chapter24\Ch24Ex02\Ch24Ex02\bin\Debug\Ch24Ex02.exe.config
+F:\CSharp\CSharp4\Chapter24\Ch24Ex02\Ch24Ex02\bin\Debug\Ch24Ex02.exe
+F:\CSharp\CSharp4\Chapter24\Ch24Ex02\Ch24Ex02\bin\Debug\Ch24Ex02.pdb
+F:\CSharp\CSharp4\Chapter24\Ch24Ex02\Ch24Ex02\obj\Debug\Ch24Ex02.exe
+F:\CSharp\CSharp4\Chapter24\Ch24Ex02\Ch24Ex02\obj\Debug\Ch24Ex02.pdb
